@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background: #ac879c;
+    font: 16px sans-serif;
+}
+
+h1 {
+    color: #a3cee8;
+    font-style: italic;
+}
+
+h2 {
+    color: rgb(94, 132, 99);
+    font-size: 1.2rem;
+    text-decoration: underline;
+}
+
+.instagram {
+    font-weight: bold;
+}
+
+.pros {
+    text-transform: uppercase;
+}
+
+ul {
+    border: 3px dashed rgb(125, 66, 125);
+    border-radius: 10px;
+}
